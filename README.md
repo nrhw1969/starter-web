@@ -12,5 +12,7 @@ This is an example showing how to use various pieces of functionality
 Sample website with plenty of files for demos
 
 ## Deployment
+Adding deployment text
 
 ## How to contribute
+Adding contribution text
