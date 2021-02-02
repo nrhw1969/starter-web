@@ -16,3 +16,7 @@ Adding deployment text
 
 ## How to contribute
 Adding contribution text
+
+### Copyright
+
+2021 Nick White
